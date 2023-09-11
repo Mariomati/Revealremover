@@ -1,0 +1,5 @@
+<gupdate xmlns='http://www.google.com/update2/response' protokół='2.0'>
+  <appid aplikacji='jgkbkpcinbifdkmphekochicceccjfkp'>
+    <updatecheck codebase='https://github.com/Mariomati/Revealremover/raw/main/RevealRemover.crx' wersja='1.5.0' />
+  </aplikacja>
+</gupdate>
